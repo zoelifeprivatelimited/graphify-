@@ -25,8 +25,8 @@ Stage 4–5: Idea → Draft → Awaiting approval → **Scheduled** → **Posted
 | Brand | Instagram | Facebook Page | LinkedIn page |
 |---|---|---|---|
 | Zoe Life | @zoe.life.garden (Abel's choice, 20 Nov 2026) | not connected | not connected |
-| IAOMAI | @zoe.life.garden (Abel's choice, 20 Nov 2026) | not connected | not connected |
-| Zoe Life Garden | @zoe.life.garden (connected, Business account) | not connected | not connected |
+| IAOMAI (iaomai.life) | none chosen | IAOMAI Facebook Page (connection pending, 20 Nov) | not connected |
+| Zoe Life Garden (zoelifegarden.com) | @zoe.life.garden (connected, Business account) | Zoe Life Garden Page (connection pending, 20 Nov) | not connected |
 
 Post a brand's content only to the account Abel has mapped it to above.
 

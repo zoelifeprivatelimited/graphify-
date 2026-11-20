@@ -24,7 +24,8 @@ Stage 2: Idea → **Draft** → Awaiting approval → Scheduled → Posted.
 
 | Brand | Voice | Audience |
 |---|---|---|
-| IAOMAI | Calm, premium, reassuring. "Heal · Restore · Make whole." Short sentences, no hype, no exclamation marks. Cobalt blue on white. | Adults 35–65 in urban India managing blood sugar, and the family members who shop for them. |
+| IAOMAI (iaomai.life; covers all nutraceutical products: Advanced Diabetes Care, Lakadong Turmeric) | Calm, premium, reassuring. "Heal · Restore · Make whole." Short sentences, no hype, no exclamation marks. Cobalt blue on white. | Adults 35–65 in urban India managing blood sugar, and the family members who shop for them. |
+| Zoe Life Garden (zoelifegarden.com) | Earthy, proud of origin. Natural agriculture and forest produce from the highlands of Northeast India. | Buyers of natural, traceable produce in India. |
 | Zoe Life | Warm, hopeful, practical. Tagline "Eternal Life". Royal blue #0E4F9E. | Health-conscious Indian families; professionals on LinkedIn. |
 
 ## Compliance checklist (run on every post)
