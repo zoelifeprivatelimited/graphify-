@@ -24,11 +24,11 @@ Stage 4–5: Idea → Draft → Awaiting approval → **Scheduled** → **Posted
 
 | Brand | Instagram | Facebook Page | LinkedIn page |
 |---|---|---|---|
-| Zoe Life | not connected | not connected | not connected |
-| IAOMAI | not connected | not connected | not connected |
-| Zoe Life Garden | @zoe.life.garden (connected) | not connected | not connected |
+| Zoe Life | @zoe.life.garden (Abel's choice, 20 Nov 2026) | not connected | not connected |
+| IAOMAI | @zoe.life.garden (Abel's choice, 20 Nov 2026) | not connected | not connected |
+| Zoe Life Garden | @zoe.life.garden (connected, Business account) | not connected | not connected |
 
-Never post a brand's content to another brand's account.
+Post a brand's content only to the account Abel has mapped it to above.
 
 ## Steps
 

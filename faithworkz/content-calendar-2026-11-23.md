@@ -3,7 +3,7 @@
 Brands: Zoe Life and IAOMAI (defaults). Platforms: Instagram, Facebook, LinkedIn. Times are IST.
 Nothing posts without Abel's APPROVE.
 
-**Approval log:** IA-01, IA-02 and ZL-01 approved by Abel on 20 Nov 2026 (chat reply "APPROVE" to the single open pack, read as APPROVE ALL). Captions and times exactly as below. They won't post until the brand accounts are connected. Other slots are still ideas.
+**Approval log:** IA-01, IA-02 and ZL-01 approved by Abel on 20 Nov 2026 (chat reply "APPROVE" to the single open pack, read as APPROVE ALL). Captions and times exactly as below. Platform changed by Abel on 20 Nov: Instagram only, via @zoe.life.garden (Facebook and LinkedIn not connected). Images still need Abel's approval before anything posts. Other slots are still ideas.
 
 Note: Abel is at a wedding in Guwahati on 24–25 Nov, so approvals for those days should come in by 23 Nov.
 
