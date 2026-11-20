@@ -1,7 +1,9 @@
 # Faithworkz content calendar: 23–29 Nov 2026
 
 Brands: Zoe Life and IAOMAI (defaults). Platforms: Instagram, Facebook, LinkedIn. Times are IST.
-Status of every slot: **Draft, nothing approved, nothing scheduled.** Nothing posts without Abel's APPROVE.
+Nothing posts without Abel's APPROVE.
+
+**Approval log:** IA-01, IA-02 and ZL-01 approved by Abel on 20 Nov 2026 (chat reply "APPROVE" to the single open pack, read as APPROVE ALL). Captions and times exactly as below. They won't post until the brand accounts are connected. Other slots are still ideas.
 
 Note: Abel is at a wedding in Guwahati on 24–25 Nov, so approvals for those days should come in by 23 Nov.
 
@@ -70,7 +72,7 @@ Real ingredients, from a real place.
 **Design brief:** close-up of the actual product jar with raw turmeric roots on a white surface, cobalt text. Needs the real product photo (still pending; see website notes).
 
 **Compliance note**
-- "Prized for high curcumin content": Government of Meghalaya, Mission Lakadong (https://megagriculture.gov.in). FLAG FOR ABEL: verify the exact source page before posting.
+- "Prized for high curcumin content": verified 20 Nov. Government of Meghalaya puts Lakadong at 7–10% curcumin, versus 2–3% in other varieties (Meghalaya CM's office, https://cm.meghalaya.gov.in/?p=2585; Mission Golden Spice launch, https://newsonair.gov.in/lakadong-turmeric-mission-golden-spice-launched-for-farm-to-global-market-ecosystem/). The caption gives no number, so it stays accurate whichever figure is used.
 - No health claim made. The product name "Lakadong Turmeric Immunity Booster" is deliberately **not** used: an "immunity booster" claim needs FSSAI and ASCI substantiation. FLAG FOR ABEL.
 - "100% Lakadong turmeric powder" repeats the product spec. The regulatory review of "100%" and "pure" wording is still open. FLAG FOR ABEL.
 
