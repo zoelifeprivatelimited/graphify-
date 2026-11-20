@@ -15,7 +15,7 @@ Stage 3: Idea → Draft → **Awaiting approval** → Scheduled → Posted.
 | Purpose | Make sure nothing is published without Abel's explicit APPROVE. |
 | Trigger / schedule | When the Writer Agent moves posts to `Draft`; reply check and reminder twice daily, 09:00 and 18:00 IST. |
 | Inputs | Posts in `Draft`; Abel's replies on WhatsApp (Blueticks) or email (Gmail). |
-| Tools | Blueticks WhatsApp (send to Abel only); Gmail (fallback, to abel@zoelife.co only); Private Agent Terminal store. |
+| Tools | Blueticks WhatsApp: group "Zoe Life · Agent Updates" (120363413269450366@g.us, Abel is the only member) is the primary channel; Gmail fallback to abel@zoelife.co only; Private Agent Terminal store. |
 | Output | One approval pack per batch: per post a numbered ID (e.g. IA-01), preview image, caption, platform, proposed time IST, compliance note. Stage → `Awaiting approval`. |
 | Approval gate | This agent is the gate. Only a reply of `APPROVE <ID>` moves a post to `Scheduled`. |
 | Success metric | Median time from pack sent to decision under 12 hours; zero posts published without APPROVE. |

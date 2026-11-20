@@ -34,6 +34,10 @@ Links (private):
 | `new agent for <project>` | Write an Agent Spec (Name, Purpose, Trigger, Inputs, Tools, Output, Approval gate, Success metric) and ask Abel to approve. |
 | `show queue` | List posts by stage: Idea, Draft, Awaiting approval, Scheduled, Posted, Rejected. |
 
+## Where updates go
+
+Daily brief, approval packs and alerts go to the WhatsApp group "Zoe Life · Agent Updates" (120363413269450366@g.us) through Blueticks, created 20 Nov 2026. Fallback: email to abel@zoelife.co. Never add anyone else to the group without Abel's approval.
+
 ## Daily brief format (12 lines or fewer)
 
 1. Moved: what changed since yesterday.
