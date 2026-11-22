@@ -1,0 +1,28 @@
+# OmniRoute AI gateway — https://github.com/diegosouzapw/OmniRoute
+# Usage: cp .env.example .env, fill in the secrets, then `docker compose up -d`.
+services:
+  omniroute:
+    image: diegosouzapw/omniroute:3.8.54   # pinned; bump deliberately
+    container_name: omniroute
+    restart: unless-stopped
+    stop_grace_period: 40s
+    env_file: .env
+    environment:
+      PORT: "20128"
+      REQUIRE_API_KEY: "true"
+    ports:
+      # Loopback only. To expose it, put a TLS reverse proxy in front instead
+      # of changing this to 0.0.0.0.
+      - "127.0.0.1:${OMNIROUTE_HOST_PORT:-20128}:20128"
+    volumes:
+      - omniroute-data:/app/data
+    mem_limit: ${OMNIROUTE_CONTAINER_MEMORY:-2g}
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://127.0.0.1:20128/api/health >/dev/null 2>&1 || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 60s
+
+volumes:
+  omniroute-data:
