@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "f-prompts-chat-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@fkadev/prompts.chat-mcp"
+      ]
+    }
+  }
+}
